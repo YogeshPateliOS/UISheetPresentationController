@@ -13,12 +13,14 @@ https://codewithyogesh.com/
 🔗 Suggest Video: Excellent ways to improve swift coding skills and confidence | Enhance Your Problem Solving Skills.
 https://youtu.be/ZAgvWfKeqQo
 
-👋🏻 Let's connect!
-➡ Instagram: https://www.instagram.com/codewithyogesh/
-➡ Linkedin: https://www.linkedin.com/in/yogeshpatelios/
-➡ Twitter: https://twitter.com/yogeshpatelios
-➡ Facebook Page: https://www.facebook.com/yogeshios
-➡ Stack overflow: https://stackoverflow.com/users/8201581/yogesh-patel
-➡ Website: https://www.codewithyogesh.com
+👋🏻 Let's connect!<br/>
+➡ Instagram: https://www.instagram.com/codewithyogesh/ <br/>
+➡ Linkedin: https://www.linkedin.com/in/yogeshpatelios/<br/>
+➡ Twitter: https://twitter.com/yogeshpatelios<br/>
+➡ Facebook Page: https://www.facebook.com/yogeshios<br/>
+➡ Stack overflow: https://stackoverflow.com/users/8201581/yogesh-patel<br/>
+➡ Website: https://www.codewithyogesh.com<br/>
 
-Like, Subscribe and Comment :-)  Thank You!
+Like, Subscribe and Comment :-)
+
+Thank You!
