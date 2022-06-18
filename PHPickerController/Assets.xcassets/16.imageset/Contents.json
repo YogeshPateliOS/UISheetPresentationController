@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "shubham-dhage-t0Bv0OBQuTg-unsplash (1).jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
